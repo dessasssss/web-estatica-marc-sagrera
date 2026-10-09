@@ -1,4 +1,0 @@
-theme = 'book'
-baseURL = 'https://hugomarc.com'
-locale = 'en-us'
-title = 'Marc Sagrera love Hugo'
